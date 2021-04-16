@@ -2,4 +2,5 @@ name: "safe-proc"
 displayName: "Safety Processors"
 minGameVersion: 110
 version: 1
-description: 
+description: "A Mindustry mod that disables logic displays in multiplayer, except displays you have last placed/edited. Useful for keeping seizure-inducing, nsfw, or other displays made with malicious intent."
+hidden: true
